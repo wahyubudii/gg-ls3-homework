@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const spotify_client_id = process.env.REACT_APP_CLIENT_ID;
+  const spotify_client_id = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
 
   return (
     <div className="App">
